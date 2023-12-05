@@ -1,0 +1,11 @@
+body{
+    background-color: salmon;
+}
+.color{
+    color: rgb(255, 255, 255);
+}
+.color2{
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-style: oblique;
+}

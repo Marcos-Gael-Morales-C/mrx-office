@@ -1,0 +1,17 @@
+.color {
+  color: rgb(167, 0, 0);
+}
+body {
+  background-color: rgb(0, 0, 0);
+}
+.container {
+  width: 500px;
+  height: 200px;
+  background-color: brown;
+}
+.container-children {
+  width: 50px;
+  height: 50px;
+  background-color: gold;
+  margin: 2px;
+}
